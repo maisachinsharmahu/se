@@ -18,7 +18,7 @@ This repository contains all diagrams used in the project, arranged **line-wise 
 
 ## 🟩 2. Use Case Diagram
 
-![Use Case Diagram](./Use_Case Diagram.png)
+![Use Case Diagram](./Use_Case_Diagram.png)
 
 ---
 
@@ -30,13 +30,13 @@ This repository contains all diagrams used in the project, arranged **line-wise 
 
 ### **Activity Diagram 2**
 
-![Activity Diagram 2](./Activity Diagram_2.png)
+![Activity Diagram 2](./Activity_Diagram_2.png)
 
 ---
 
 ## 🟧 4. Sequence Diagram
 
-![Sequence Diagram](./Sequence_Diagram .png)
+![Sequence Diagram](./Sequence_Diagram.png)
 
 ---
 
